@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d55342e-9c7f-4a5e-8030-47b7dc6b3dec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vbw3wdAmnEpq3yDflrL4QeZ2Nk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="kite.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pletsyo\PycharmProjects\GDP\PeriodicWork" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pletsyo\PycharmProjects\GDP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.gui">
+    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GDP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="labourCost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GDP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pletsyo\PycharmProjects\GDP\PeriodicWork\Labour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paperLabour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GDP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PaperWork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pletsyo\PycharmProjects\GDP\PaperWork\Labour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="params" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GDP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pletsyo\PycharmProjects\GDP\PeriodicWork\Param.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="welcome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GDP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gui/welcome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.welcome" />
+        <item itemvalue="Python.paperLabour" />
+        <item itemvalue="Python.params" />
+        <item itemvalue="Python.labourCost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d55342e-9c7f-4a5e-8030-47b7dc6b3dec" name="Default Changelist" comment="" />
+      <created>1577534906661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577534906661</updated>
+      <workItem from="1577534910446" duration="19289000" />
+      <workItem from="1577573931595" duration="10254000" />
+      <workItem from="1577634973227" duration="11943000" />
+      <workItem from="1577651355144" duration="1978000" />
+      <workItem from="1577735768831" duration="10171000" />
+      <workItem from="1577748409032" duration="2015000" />
+      <workItem from="1577755035250" duration="3523000" />
+      <workItem from="1577759342730" duration="548000" />
+      <workItem from="1577792439006" duration="18508000" />
+      <workItem from="1577811333979" duration="4178000" />
+      <workItem from="1577830782942" duration="2410000" />
+      <workItem from="1577844410679" duration="1535000" />
+      <workItem from="1577874165438" duration="6695000" />
+      <workItem from="1577881161898" duration="28102000" />
+      <workItem from="1577953051056" duration="55300000" />
+      <workItem from="1578044759352" duration="28092000" />
+      <workItem from="1578157519447" duration="970000" />
+      <workItem from="1578169499474" duration="18199000" />
+      <workItem from="1578212231527" duration="34606000" />
+      <workItem from="1578250426193" duration="10354000" />
+      <workItem from="1578264695599" duration="2957000" />
+      <workItem from="1578298237654" duration="11792000" />
+      <workItem from="1578313172371" duration="5757000" />
+      <workItem from="1578330158596" duration="1199000" />
+      <workItem from="1578340662897" duration="7636000" />
+      <workItem from="1578348679202" duration="3428000" />
+      <workItem from="1578402344647" duration="38681000" />
+      <workItem from="1578558291785" duration="9548000" />
+      <workItem from="1578593710726" duration="11835000" />
+      <workItem from="1578618148320" duration="30305000" />
+      <workItem from="1578677666546" duration="7221000" />
+      <workItem from="1578687378675" duration="6620000" />
+      <workItem from="1578758837274" duration="7784000" />
+      <workItem from="1578785607450" duration="2800000" />
+      <workItem from="1578860768591" duration="3190000" />
+      <workItem from="1578898043264" duration="123000" />
+      <workItem from="1579024029627" duration="831000" />
+      <workItem from="1579227051858" duration="20000" />
+      <workItem from="1579227401065" duration="3637000" />
+      <workItem from="1579232390409" duration="598000" />
+      <workItem from="1579690947144" duration="4079000" />
+      <workItem from="1580150604805" duration="1014000" />
+      <workItem from="1580164427968" duration="290000" />
+      <workItem from="1580563732292" duration="16646000" />
+      <workItem from="1580719374348" duration="761000" />
+      <workItem from="1581008430587" duration="6395000" />
+      <workItem from="1581114917184" duration="1863000" />
+      <workItem from="1584051673088" duration="2301000" />
+      <workItem from="1584214679471" duration="10503000" />
+      <workItem from="1584226308669" duration="2464000" />
+      <workItem from="1584269132330" duration="22111000" />
+      <workItem from="1584293871338" duration="74000" />
+      <workItem from="1585130772284" duration="7269000" />
+      <workItem from="1584989917087" duration="233000" />
+      <workItem from="1585208546833" duration="8418000" />
+      <workItem from="1585226692875" duration="1922000" />
+      <workItem from="1585269909004" duration="1018000" />
+      <workItem from="1586556869640" duration="209000" />
+      <workItem from="1586557084520" duration="9488000" />
+      <workItem from="1586606863282" duration="92000" />
+      <workItem from="1587574161902" duration="675000" />
+      <workItem from="1591168541767" duration="5135000" />
+      <workItem from="1591177394543" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GDP$materialCost.coverage" NAME="materialCost Coverage Results" MODIFIED="1578765767105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GDP$gui.coverage" NAME="gui Coverage Results" MODIFIED="1586566121982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GDP$labourCost.coverage" NAME="labourCost Coverage Results" MODIFIED="1578786275995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GDP$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1585227844714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Gui" />
+    <SUITE FILE_PATH="coverage/GDP$paperLabour.coverage" NAME="paperLabour Coverage Results" MODIFIED="1585210533602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PaperWork" />
+    <SUITE FILE_PATH="coverage/GDP$font.coverage" NAME="font Coverage Results" MODIFIED="1578347006778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/ProgramData/Anaconda3/Lib/tkinter" />
+    <SUITE FILE_PATH="coverage/GDP$params.coverage" NAME="params Coverage Results" MODIFIED="1578786596456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
